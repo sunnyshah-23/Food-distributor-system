@@ -1,0 +1,2 @@
+sunny|22|1234567890|sunny24|shahsunny311@gmail.com|sunny|true
+deep|448 meloy|9768330797|dv|dv@gmail.com|deepvira|false
